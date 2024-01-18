@@ -18,3 +18,4 @@ I'm a passionate Data and Infrasturcture Engineer who loves to Open Source and s
 - [LinkedIn](https://linkedin.com/in/raffi-febriandika-utama)
 - [#100DaysOfCode](https://twitter.com/raffifuu)
 - [Personal Website/Blog](https://raffifu.github.io)
+- [Medium](https://medium.com/@raffifebriandikau)
