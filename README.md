@@ -11,7 +11,7 @@ I'm a passionate Data and Infrasturcture Engineer who loves to Open Source and s
 - 👯 I’m looking to collaborate on Data Engineering or Infra Project
 
 ## Skills
-- Languages: Python, Java, Java Script, C++
+- Languages: Python, Java, JavaScript, C++
 - Technologies: Docker, Kubernetes, Airflow, Apache Spark, Spring Boot
 
 ## Find Me Around the Web
