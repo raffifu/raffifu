@@ -7,9 +7,7 @@
 ## About Me
 I'm a passionate Data and Infrasturcture Engineer who loves to Open Source and security
 
-- 🔭 I’m currently working on Apache Airflow
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on Data Engineering or Infra Project
+- 🔭 I’m currently learning Cyber Security
 
 ## Skills
 - Languages: Python, Java, JavaScript, C++
